@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+}
+.clockDiv{
+    background: rgba(0,0,0,.7);
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 400px;
+}
+
+.clockDiv > p{
+    color: #fff;
+    display: inline-block;
+    font-family: 'Indie Flower';
+    font-size: 6em;
+}
